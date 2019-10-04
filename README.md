@@ -1,4 +1,4 @@
 test
 ====
 
-test repo
+test repo, now with cla-bot
